@@ -1,0 +1,8 @@
+{
+  "target": "example.com",
+  "ports": [22, 80, 443],
+  "credentials": {
+    "username": "admin",
+    "password": "toor"
+  }
+}
